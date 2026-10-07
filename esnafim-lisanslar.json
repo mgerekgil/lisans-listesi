@@ -1,1 +1,1 @@
-{"payload": {"app": "ESNAFIM", "v": 1, "issued": "2026-10-07T21:26:57", "lease_days": 20, "warn_days": 10, "entries": {}}, "sig": "d43bf15488b51e47e407f31ff7eac34c457a3ebd65e276325e41cfa7f046d06b9828e02dd4f861ddd62504398682a45ca33aefcb6625f9aca137d3643afe8406"}
+{"payload": {"app": "ESNAFIM", "v": 1, "issued": "2026-10-07T21:47:02", "lease_days": 20, "warn_days": 10, "entries": {}, "full_until": "2026-10-09"}, "sig": "3da4dfb467c730a758549277e5a5cb563a575b6406f62ad0147e425524c532b4837395f4942d1aef5dfa88339c30bea21998e8a980679a2dd7a6e6bae9a97c0f"}
